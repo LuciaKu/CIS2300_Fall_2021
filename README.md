@@ -1,2 +1,2 @@
 # CIS2200
-I created a code to determine whether or not someone can register to vote.
+This is a collection of all the coding assignments I completed while taking the CIS2200 (Intro to Computer Systems) course at Baruch College.
